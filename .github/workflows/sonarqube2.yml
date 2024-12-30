@@ -1,4 +1,4 @@
-name:  zap integration workflow
+name:  SONARQUBE integration workflow
 on: [push]
 
 jobs:
